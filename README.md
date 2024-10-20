@@ -18,4 +18,8 @@ This dashboard gives a high-level overview of key airport metrics:
 -Developed an interactive dashboard that allows stakeholders to filter data by airlines, airports, and times, leading to actionable insights.
 -Used scatter plots to analyze the relationship between flight distances and delays, providing a visual representation of the data.
 
-The insights gained from this analysis can significantly assist airline companies in optimizing their operations, identifying frequent delay patterns, and implementing strategies for improvement.
+
+Due to the large file size, I am unable to upload the dashboards and dataset directly. However, you can check them out using the links below:
+𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐑𝐞𝐩𝐨𝐫𝐭: https://lnkd.in/dkKJzCWm 
+𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐋𝐢𝐧𝐤: https://lnkd.in/d5w9RiW5
+Feel free to explore the visuals and reports!
