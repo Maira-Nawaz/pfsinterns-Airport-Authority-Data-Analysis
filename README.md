@@ -1,6 +1,6 @@
 # pfsinterns-Airport-Authority-Data-Analysis
 
-I explored Flight Delay Analysis using hashtag#PowerBI. This comprehensive analysis provided insights into various aspects of flight delays, such as pre-departure and post-arrival delays, taxi-out and taxi-in times, and overall flight statistics.
+I explored Flight Delay Analysis using PowerBI. This comprehensive analysis provided insights into various aspects of flight delays, such as pre-departure and post-arrival delays, taxi-out and taxi-in times, and overall flight statistics.
 
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰:
 This dashboard gives a high-level overview of key airport metrics:
